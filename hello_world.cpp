@@ -3,7 +3,6 @@
 
 int main(){
 std::string name;
->>>>>>> edit
 std::cin >> name;
 std::cout << "Hello world from " << name << " !" << std::endl;
 }
